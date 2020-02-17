@@ -19,7 +19,7 @@ BEGIN_MESSAGE_MAP(DynMultiViewApp, CWinApp)
 	//{{AFX_MSG_MAP(DynMultiViewApp)
 	ON_COMMAND(ID_APP_ABOUT, OnAppAbout)
 	ON_COMMAND(ID_VIEW_PRIMARYVIEW, OnViewPrimaryView)
-	ON_COMMAND(ID_VIEW_PRIMARYVIEW, OnViewSecondaryView)
+	ON_COMMAND(ID_VIEW_SECONDARYVIEW, OnViewSecondaryView)
 	//}}AFX_MSG_MAP
 	// Standard file based document commands
 	ON_COMMAND(ID_FILE_NEW, CWinApp::OnFileNew)
