@@ -1,3 +1,2 @@
 Multiple Dynamic Views (https://www.codeproject.com/Articles/1483/Creation-of-Multiple-Dynamic-Views)
 Multiview (https://www.codeproject.com/Articles/7686/Using-Multiview)
-VPTree (http://stevehanov.ca/blog/?id=130)
