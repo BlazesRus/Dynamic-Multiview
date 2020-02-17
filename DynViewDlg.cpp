@@ -1,7 +1,7 @@
 // DynViewDlg.cpp : implementation file
 //
 
-#include "stdafx.h"
+#include "StdMultiView.h"
 #include "DynViewsApp.h"
 #include "DynViewDlg.h"
 

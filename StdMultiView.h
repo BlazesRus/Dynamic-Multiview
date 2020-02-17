@@ -1,10 +1,10 @@
-// stdafx.h : include file for standard system include files,
+// StdMultiView.h : include file for standard system include files,
 //  or project specific include files that are used frequently, but
 //      are changed infrequently
 //
 
-#if !defined(AFX_STDAFX_H__7C617F56_881C_4D9A_B3F0_C0F8BC69F3D8__INCLUDED_)
-#define AFX_STDAFX_H__7C617F56_881C_4D9A_B3F0_C0F8BC69F3D8__INCLUDED_
+#if !defined(AFX_StdMultiView_H__7C617F56_881C_4D9A_B3F0_C0F8BC69F3D8__INCLUDED_)
+#define AFX_StdMultiView_H__7C617F56_881C_4D9A_B3F0_C0F8BC69F3D8__INCLUDED_
 
 #if _MSC_VER > 1000
 #pragma once
@@ -24,4 +24,4 @@
 //{{AFX_INSERT_LOCATION}}
 // Microsoft Visual C++ will insert additional declarations immediately before the previous line.
 
-#endif // !defined(AFX_STDAFX_H__7C617F56_881C_4D9A_B3F0_C0F8BC69F3D8__INCLUDED_)
+#endif // !defined(AFX_StdMultiView_H__7C617F56_881C_4D9A_B3F0_C0F8BC69F3D8__INCLUDED_)

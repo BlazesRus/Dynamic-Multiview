@@ -1,7 +1,7 @@
 // MainFrm.cpp : implementation of the MainFrame class
 //
 
-#include "stdafx.h"
+#include "StdMultiView.h"
 #include "MultiViewApp.h"
 
 #include "MainFrm.h"

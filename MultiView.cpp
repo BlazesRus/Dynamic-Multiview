@@ -1,7 +1,7 @@
 // MultiView.cpp : implementation of the MultiView class
 //
 
-#include "stdafx.h"
+#include "StdMultiView.h"
 #include "MultiViewApp.h"
 
 #include "MultiViewDoc.h"

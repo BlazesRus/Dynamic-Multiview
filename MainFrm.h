@@ -11,7 +11,6 @@
 
 class MainFrame : public CFrameWnd
 {
-	
 protected: // create from serialization only
 	MainFrame();
 	DECLARE_DYNCREATE(MainFrame)

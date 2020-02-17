@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "StdMultiView.h"
 #include "DynMultiViewApp.h"
 
 #include "MainFrm.h"

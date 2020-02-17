@@ -1,7 +1,7 @@
 // MultiViewDoc.cpp : implementation of the MultiViewDoc class
 //
 
-#include "stdafx.h"
+#include "StdMultiView.h"
 #include "MultiViewApp.h"
 
 #include "MultiViewDoc.h"
