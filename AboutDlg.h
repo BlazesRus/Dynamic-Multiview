@@ -2,15 +2,13 @@
 #define MultiviewAboutDlg_Included
 #pragma once
 
-#include "MultiviewPrecompile.h"
+#include "StdMultiView.h"
 
 #ifndef __AFXWIN_H__
 #error "include 'MultiviewPrecompile.h' before including this file for PCH"
 #endif
 
-#if !defined(BehaviorFileEditorSpeced)
 #include "resource.h"       // main symbols
-#endif
 
 #if !defined(IDD_ABOUTBOX)
 #define IDD_ABOUTBOX                    100

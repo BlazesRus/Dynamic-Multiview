@@ -2,9 +2,10 @@
 //
 
 #include "StdMultiView.h"
-#include "MultiViewApp.h"
+//#include "MultiViewApp.h"
 
 #include "MainFrm.h"
+#include "resource.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
@@ -65,8 +66,7 @@ int MainFrame::OnCreate(LPCREATESTRUCT lpCreateStruct)
 		return -1;      // fail to create
 	}
 
-	// TODO: Delete these three lines if you don't want the toolbar to
-	//  be dockable
+	// TODO: Delete these three lines if you don't want the toolbar to be dockable
 	m_wndToolBar.EnableDocking(CBRS_ALIGN_ANY);
 	EnableDocking(CBRS_ALIGN_ANY);
 	DockControlBar(&m_wndToolBar);

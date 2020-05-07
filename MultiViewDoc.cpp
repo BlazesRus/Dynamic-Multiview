@@ -2,7 +2,6 @@
 //
 
 #include "StdMultiView.h"
-#include "MultiViewApp.h"
 
 #include "MultiViewDoc.h"
 
@@ -30,7 +29,7 @@ END_MESSAGE_MAP()
 MultiViewDoc::MultiViewDoc()
 {
 	// TODO: add one-time construction code here
-	m_str="Hello from document";
+	m_str="";
 }
 
 MultiViewDoc::~MultiViewDoc()

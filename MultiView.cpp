@@ -2,7 +2,7 @@
 //
 
 #include "StdMultiView.h"
-#include "MultiViewApp.h"
+//#include "MultiViewApp.h"
 
 #include "MultiViewDoc.h"
 #include "MultiView.h"
